@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Yedixon Ramones! 💻
+# ¡Hola, soy Yedixon Ramones! 
 
 ## 🛠️ Tech Stack:
 ### **Lenguajes de Programación:**
