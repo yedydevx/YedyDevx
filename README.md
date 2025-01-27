@@ -6,12 +6,6 @@
 
 ---
 
-## 🌱 Actualmente estoy aprendiendo:
-- Profundizando mis conocimientos en **TypeScript** y **React**.
-- Trabajando en la optimización de aplicaciones con **Tailwind CSS** y aprendiendo del backend con **Node y Express**.
-
----
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YedyxDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YedyxDev&theme=dark&hide_border=false)<br/>
