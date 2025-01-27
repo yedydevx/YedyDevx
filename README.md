@@ -19,7 +19,6 @@ _"El código no solo es un conjunto de instrucciones, es la herramienta que tran
 ## 📫 ¡Conectemos!
 📧 **Email:** [yedixonjrf@gmail.com](mailto:yedixonjrf@gmail.com)  
 🔗 **LinkedIn:** [Yedixon Ramones](https://www.linkedin.com/in/yedixon-ramones-5297b1277/)  
-🌐 **Instagram:** [@yedixdev](https://www.instagram.com/yedixdev/)
 
 ---
 
