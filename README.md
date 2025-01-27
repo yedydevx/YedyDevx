@@ -13,9 +13,6 @@
 
 ---
 
-## 🌟 Frase personal:
-_"El código no solo es un conjunto de instrucciones, es la herramienta que transforma ideas en realidades digitales."_  
-
 ## 📫 ¡Conectemos!
 📧 **Email:** [yedixonjrf@gmail.com](mailto:yedixonjrf@gmail.com)  
 🔗 **LinkedIn:** [Yedixon Ramones](https://www.linkedin.com/in/yedixon-ramones-5297b1277/)  
