@@ -1,4 +1,4 @@
-![](https://github.com/YedyDevx/YedyxDev/blob/main/BANNER2.png)
+![](https://github.com/YedyDevx/YedyxDev/blob/main/BANNER.png)
 
 ### ¡Hola! 👋  
 Desarrollador de Software y Analista apasionado por la creación de interfaces web interactivas, modernas y optimizadas. Enfoque en la usabilidad y el diseño responsivo. Con experiencia en metodologías ágiles, facilitación de ceremonias Scrum y desarrollo de soluciones escalables. Apasionado por resolver problemas y construir experiencias digitales intuitivas que generen impacto.
