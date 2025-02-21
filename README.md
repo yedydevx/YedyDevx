@@ -25,7 +25,7 @@ Desarrollador de Software y Analista apasionado por la creación de interfaces w
 
 <div align="center" style="background-color: #0d0d0d; padding: 20px; border-radius: 10px;">
 <a href="https://yedy-devx.vercel.app/CV-YedixonRamones.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV%20Descargar-FF00FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
+      <img src="https://img.shields.io/badge/CV%20Descargar-0A1F44?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver CV" />
   </a>
 </div>
 ---
