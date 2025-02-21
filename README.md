@@ -1,4 +1,4 @@
-![](https://github.com/YedixonRDev/YedixonRDev/blob/main/Githubbanner.png)
+![Yedixon]([https://github.com/YedixonRDev/YedixonRDev/blob/main/Githubbanner.png](https://github.com/YedyDevx/YedyxDev/blob/main/BANNER.png))
 
 ### ¡Hola! 👋  
 Soy un **Desarrollador de Software** apasionado por la creación de **interfaces interactivas y experiencias dinámicas**.  
