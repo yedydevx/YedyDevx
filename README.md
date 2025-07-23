@@ -15,16 +15,10 @@ Desarrollador Full Stack y Analista apasionado por la creación de aplicaciones 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat) ![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat) ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat) ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat)
 
 **Bases de Datos:**  
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat) ![Supabase Badge](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff&style=flat) ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat) ![Supabase Badge](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff&style=flat) 
 
 **Herramientas:**  
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
-
-### 📊 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YedyDevx&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YedyDevx&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <h2>💬 Contacto</h2>
