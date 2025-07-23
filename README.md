@@ -28,7 +28,7 @@ Desarrollador Full Stack y Analista apasionado por la creación de aplicaciones 
   <a href="mailto:yedixonjrf@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/573017317519" target="_blank">
+  <a href="https://wa.me/573205215032" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
